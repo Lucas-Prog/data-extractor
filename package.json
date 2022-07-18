@@ -1,0 +1,7 @@
+{
+  "name": "data-extractor",
+  "dependencies": {
+    "convert-array-to-csv": "^2.0.0"
+  },
+  "bin": "index.js"
+}
